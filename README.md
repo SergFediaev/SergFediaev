@@ -1,16 +1,15 @@
-## Hi there 👋
+# [Kloda.ru](https://Kloda.ru)
+Образовательное fullstack-приложение с карточками, в котором реализовано:
+- Озвучивание (Text-to-Speech).
+- Импорт из Google таблиц.
+- Экспорт данных в CSV и голосовой поиск.
+- И многое другое!
 
-<!--
-**SergFediaev/SergFediaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Репозитории:
+- [Фронтенд](https://github.com/SergFediaev/Kloda) (Next.js).
+- [Бэкенд](https://github.com/SergFediaev/Kloda-API) (ElysiaJS).
 
-Here are some ideas to get you started:
+# [L4L.su](https://L4L.su)
+Fullstack-приложение с мониторингом Source Dedicated серверов и интеграцией сообщества Steam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Репозиторий: [github.com/SergFediaev/L4L.su](https://github.com/SergFediaev/L4L.su) (Next.js).
